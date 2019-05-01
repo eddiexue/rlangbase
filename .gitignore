@@ -1,3 +1,6 @@
+# PDF books not upload 2 github
+books/
+
 #markdown生成的HTML屏蔽掉
 *.html
 
